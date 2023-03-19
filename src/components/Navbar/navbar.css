@@ -1,0 +1,9 @@
+.nav-link {
+  margin: 40px;
+}
+.nav-link:hover {
+  color:blue;
+}
+.logo{
+  margin-right: 20px;
+}
