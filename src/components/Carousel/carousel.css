@@ -1,7 +1,17 @@
 .main-container{
-    margin:40px;
-    height:500px;
+    width:80%;
+    margin:auto;
+    margin-top:40px;
+    height:35rem;
+    overflow: hidden;
 }
-.img {
-    object-fit: contain;
+.img7{
+    height:35rem;
+    overflow: hidden;
 }
+.img7 img {
+    width:100%;
+    height:100%;
+    object-fit: cover;
+}
+

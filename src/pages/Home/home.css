@@ -1,0 +1,16 @@
+.head{
+    margin:auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width:fit-content;
+    font-weight: bold;
+    font-size: 36px;
+    border-bottom: 5px solid black;
+    
+}
+.content{
+    width:90%;
+    margin:auto;
+    font-size: 20px;
+    text-align: center;
+}

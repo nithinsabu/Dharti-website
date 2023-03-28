@@ -8,14 +8,13 @@ import "./navbar.css";
 import logo from "./../../assets/images/2.jpg";
 const Navba1 =() => {
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar bg="light" expand="lg" sticky="top">
       <Container style={{height:'60px'}}>
         <Navbar.Brand href="/">
         <img 
            alt="Logo"
            src={logo}
-           width="60"
-           height="40" 
+           style={{width:'60px',height:'40px'}}
            className='logo'
         />
         <span style={{fontSize:'30px'}}> Dharti</span> 
